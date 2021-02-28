@@ -12,7 +12,9 @@
     "profanity",
     "nanoid"
   ],
-  "author": "y-gagar1n",
+
+  "author": "Simon Leclère",
+  
   "license": "ISC",
   "dependencies": {
     "nanoid": "^3.1.2",
