@@ -14,7 +14,12 @@
   ],
 
   "author": "Simon Leclère",
-  
+  "homepage": "https://github.com/SimonLeclere/nanoid-bad",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonLeclere/nanoid-bad.git"
+  },
+
   "license": "ISC",
   "dependencies": {
     "nanoid": "^3.1.2",
