@@ -1,6 +1,6 @@
 {
   "name": "nanoid-bad",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Obscene words filter for nanoid",
   "main": "index.js",
   "scripts": {

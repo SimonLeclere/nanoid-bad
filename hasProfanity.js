@@ -3,7 +3,6 @@ function checkByList(input, bad_words) {
         // Number 1 can be interpreted as l or I.
         var sanitizedBadWord = bad_words[i].replace('l', 'i')
         if (new RegExp(sanitizedBadWord, "gi").test(input)) {
-            console.log(sanitizedBadWord);
             return true;
         }
     }
